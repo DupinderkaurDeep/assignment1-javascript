@@ -1,0 +1,45 @@
+body {   /* Set margin for the entire body */
+     margin: 20px;
+    background-image: url(../images/The-Power-of-Content-Readability-Boom-Online-Marketing-e1667586938887.avif);
+    background-size: cover;
+    font-family: 'Protest Revolution', sans-serif; /* Set the  font family */
+    font-family: 'Protest Riot', sans-serif;
+    font-weight: bold;   /* Set font weight to bold */
+    font-style: oblique;    /* Set font style to oblique */
+    line-height: 1.6;  /* Set the line height */
+   
+}
+
+h1 {    /* Styling for level 1 headings */
+    color: #e42c9d;  /* Set text color for h1 */
+    font-family: 'Protest Revolution', sans-serif;  /* Set font family  */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);  /* Set text shadow */
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+button {     /* Style for buttons */
+    background-color: #aa74ce;  /* Set background color  */
+    color: white;   /* Set text color*/
+    padding: 10px 15px;  /* Set padding  */
+    margin: 5px;   /* Set margin  */
+   
+    border-radius: 5px;
+    cursor: pointer;
+   
+}
+
+
+
+p {
+    margin: 10px 0;  /* Set margin for paragraphs */
+}
+
+#story {   /* Style for element with  'story' */
+    font-weight: bold; /* Set font weight  */
+    font-size: 1.2em;   /* Set font size */
+    color: #070807;   /* Set text color */
+    text-transform: uppercase;  /* Transform text to uppercase */
+}
